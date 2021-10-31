@@ -115,7 +115,7 @@ elif type == 0:
 		
 		print(resp.json())
 		input('\n\n\nThank You For Using Cybersms\nAfter v1.49 There are no Ads Enabled in this Tool.\nPress Enter To Continue.\n')
-		os.system('figlet -f slant Just Kidding')
+		os.system('figlet -f slant Coding family')
 		print("There's No Ads.\nWe love you continue to support our team.\nThank you for your support...")
 		break
 		if '"success" : true ' in resp.text:
